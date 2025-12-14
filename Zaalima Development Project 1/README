@@ -1,0 +1,91 @@
+# 💳 Credit Card Fraud Detection using Machine Learning
+
+🔗 **Project Link:https://github.com/Jayakrishnan-10/Zaalima_Project_1
+
+---
+
+## 📌 Project Overview
+This project aims to detect fraudulent credit card transactions using machine learning techniques.  
+It focuses on handling highly imbalanced data and identifying fraud cases with high accuracy and recall.
+
+This project was completed as part of a **one-month Data Science & Machine Learning internship**.
+
+---
+
+## ❓ Problem Statement
+Credit card fraud causes major financial losses worldwide.  
+The challenge is to build a model that can:
+- Accurately detect fraudulent transactions  
+- Handle class imbalance  
+- Reduce false negatives (missed fraud cases)
+
+---
+
+## 🔄 Project Workflow
+1. Understanding the dataset  
+2. Data cleaning and preprocessing  
+3. Exploratory Data Analysis (EDA)  
+4. Feature selection  
+5. Model training  
+6. Model evaluation  
+7. Visualization using Power BI  
+
+---
+
+## 🧠 Technologies & Tools Used
+- Python  
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+- Scikit-learn  
+- Jupyter Notebook  
+- Power BI  
+
+---
+
+## 📁 Dataset Description
+- Credit card transaction dataset  
+- Highly imbalanced:
+  - **Class 0** → Normal transaction  
+  - **Class 1** → Fraud transaction  
+
+---
+
+## 🤖 Machine Learning Models Used
+- **Logistic Regression** – used as a baseline model  
+- **Random Forest Classifier** – captures non-linear patterns and improves performance  
+
+---
+
+## 📈 Model Evaluation
+Because the dataset is imbalanced, accuracy alone is not sufficient.  
+The following metrics were used:
+- Accuracy  
+- Precision  
+- Recall  
+- F1-Score  
+- Confusion Matrix  
+
+Special emphasis was given to **Recall**, as detecting fraud cases is critical.
+
+---
+
+## 📊 Visualizations & Dashboard
+- Fraud vs Normal transaction distribution  
+- Transaction amount analysis  
+- Feature correlation plots  
+- Interactive **Power BI dashboard** for insights 
+link :-
+
+
+---
+
+## 🧠 Key Learnings
+- Handling imbalanced datasets  
+- Importance of recall in fraud detection  
+- Data preprocessing techniques  
+- End-to-end machine learning workflow  
+- Data visualization for business insights  
+
+---
